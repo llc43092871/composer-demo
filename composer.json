@@ -1,16 +1,14 @@
 {
     "name": "llc43092871/composer-demo",
-    "description": "a test composer project",
+    "description": "test project",
     "type": "project",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
-    "license": "MIT",
+    "license": "mit",
     "authors": [
         {
             "name": "apple",
             "email": "43092871@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
